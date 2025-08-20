@@ -46,7 +46,6 @@ Here are some of the projects I’m proud of:
 - **Tech Stack:** React, Node.js, Google Gemini API, Web Speech API, IndexedDB
 - **Features:**
   - Paste text → Generate flashcards with AI
-  - Voice navigation (Next, Repeat, Correct)
   - Text-to-Speech playback
   - Spaced repetition review system
   - Offline support with IndexedDB

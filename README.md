@@ -3,7 +3,7 @@
 I'm Ahmad Al Khatib, a frontend developer who loves building cool stuff! Welcome to my GitHub profile.
 
 - 🔭 I’m currently working on **Smart Irrigation System App**
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MongoDB**
 - 💬 Ask me about **Web Developement**
 - 📫 How to reach me: **ahmadalkkhatib@gmail.com**
 - 😄 Pronouns: **he/him**
@@ -38,6 +38,16 @@ Here are some of the projects I’m proud of:
   - User Profile Customization
   - Plant Addition
   - Real Time Data Tracking
+ 
+### [EchoLearn](https://github.com/ahmadkhatib02/ahmad-diner)
+- **Description:** A privacy-first, voice-interactive flashcard app that transforms any text into AI-generated study material
+- **Tech Stack:** React, Node.js, Google Gemini API, Web Speech API, IndexedDB
+- **Features:**
+  - Paste text → Generate flashcards with AI
+  - Voice navigation (Next, Repeat, Correct)
+  - Text-to-Speech playback
+  - Spaced repetition review system
+  - Offline support with IndexedDB
 
 ### [Ahmad's Diner](https://github.com/ahmadkhatib02/ahmad-diner)
 - **Description:** A web app designed to manage a diner menu

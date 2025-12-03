@@ -3,14 +3,13 @@
 I'm **Ahmad Al Khatib**, a Computer Engineering student and frontend-focused developer passionate about building intelligent, user-centered web applications. I love blending clean UIs with real-world utility—especially in agri-tech, education, and AI.
 
 - 🌐 **Portfolio**: [https://ahmad-alkhatib.com/](https://ahmad-alkhatib.com/)
-- 🔭 Currently building **[Agrinova](https://github.com/ahmadkhatib02/agrinova)** — a smart plant care platform  
+- 🔭 Currently building **[Agrinova](https://github.com/ahmadkhatib02/Agrinova-2.0)** — a smart plant care platform  
 - 🌱 Expanding into full-stack development with **Node.js, Express, and MongoDB**  
 - 🤖 Exploring **AI integration** using Google Generative AI and LLMs  
 - 💬 Ask me about **React, Firebase, Web Development, or AI-powered apps**  
 - 📫 Reach me at: **ahmadalkkhatib@gmail.com**  
 - 😄 Pronouns: **he/him**
 
-![Learning Journey](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NsbHhzdDRsM2F3NjU2aGJhMzJjcXZnNTVjN3JpeXg5ZHRiOXp2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFkpsHWCsNUUo/giphy.gif)
 
 ---
 
@@ -26,7 +25,6 @@ I'm **Ahmad Al Khatib**, a Computer Engineering student and frontend-focused dev
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools & Technologies
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -38,24 +36,20 @@ I'm **Ahmad Al Khatib**, a Computer Engineering student and frontend-focused dev
 
 ## 🚀 Featured Projects
 
-### [**Agrinova**](https://github.com/ahmadkhatib02/agrinova) | [Live Demo](https://agrinova01.netlify.app/)
+### [**Agrinova**](https://github.com/ahmadkhatib02/Agrinova-2.0)
 - **A smart plant care web app** for tracking plants, setting watering reminders, and receiving real-time notifications.
 - **Tech**: React, Firebase (Auth + Realtime DB), Figma  
 - **Features**: Plant management, user profiles, responsive UI, and intuitive onboarding.
 
-### [**Slides.io**](https://github.com/ahmadkhatib02/slides-io)
+### [**Slides.io**](https://github.com/ahmadkhatib02/slides.io)
 - **Agentic AI tool** that generates full PowerPoint decks from a text prompt.
 - **Tech**: React + Vite + TypeScript, FastAPI, Google Gemini 2.5 Flash  
 - **Features**: One-click download, clean UI, LLM-powered slide generation.
 
-### [**EchoLearn**](https://github.com/ahmadkhatib02/echo-learn) *(in development)*
+### [**EchoLearn**](https://github.com/ahmadkhatib02/EchoLearn) 
 - **Privacy-first flashcard app** that turns any text into AI-generated, voice-interactive study material.
 - **Tech**: React, Node.js, Google Gemini API, Web Speech API, IndexedDB  
 - **Features**: AI flashcards, text-to-speech, spaced repetition, offline support.
-
-### [**Ahmad's Diner**](https://github.com/ahmadkhatib02/ahmad-diner)
-- Interactive diner menu manager with dynamic ordering.
-- **Tech**: HTML, CSS, JavaScript
 
 ---
 
